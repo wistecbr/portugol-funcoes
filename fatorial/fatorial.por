@@ -3,22 +3,20 @@ programa
 	funcao inicio()
 	{
 		// criar função para calcular a pontencia
-		inteiro resposta = 0, base, exp
-		escreva("base ")
-		leia(base)
-		escreva("Expoente ")
-		leia(exp)
-		resposta = potencial(base,exp)	
-		escreva(base ,"^", exp, " = ", resposta)	
+		inteiro resposta = 0, num
+		escreva("Digite um número ")
+		leia(num)
+		resposta = fatorial(num)	
+		escreva(num,"! é  igual ", resposta)	
 	}
 
-	funcao inteiro potencial(inteiro base, inteiro expoente){
+	funcao inteiro fatorial(inteiro numero){
 		inteiro resultado = 1
 
-		para(inteiro i = 0; i < expoente; i++){
-			resultado = resultado * base
-		}
-		base = 0
+		//para(inteiro i = 0; i < ; i++){
+			
+		//}
+		
 		retorne resultado
 	}
 }
@@ -30,9 +28,9 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 257; 
+ * @POSICAO-CURSOR = 200; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {resultado, 16, 10, 9};
+ * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
