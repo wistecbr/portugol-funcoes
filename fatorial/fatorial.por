@@ -11,13 +11,13 @@ programa
 	}
 
 	funcao inteiro fatorial(inteiro numero){
-		inteiro resultado = 1
+		inteiro fat = 1
 
-		//para(inteiro i = 0; i < ; i++){
-			
-		//}
+		para(inteiro i = 1 ; i <= numero ; i++){
+			fat = fat * i
+		}
 		
-		retorne resultado
+		retorne fat
 	}
 }
 /*
@@ -28,7 +28,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 200; 
+ * @POSICAO-CURSOR = 216; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
