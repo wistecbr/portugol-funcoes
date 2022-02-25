@@ -27,3 +27,4 @@ O programa deverá exibir os seguinte resultado
     Media		8,3		        7,6             8,3
 
 ````
+## Função para Cadastrar Aluno, notas e calcular total e médias e situação
