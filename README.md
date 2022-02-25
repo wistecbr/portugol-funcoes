@@ -20,10 +20,10 @@ O programa deverá exibir os seguinte resultado
 <br/>
 
 ```
-	Nome 		Nota1 		    Nota2 		Nota 3 	    Total
-    Aluno1		10		        8		    10		    28
-    Aluno2		10		        5		    5		    20
-    Aluno3		5		        10		    10		    25	
-    Media		8,3		        7,6         8,3
+	Nome 		Nota1 		    Nota2 		    Nota 3 	        Total
+    Aluno1		10		        8		        10		        28
+    Aluno2		10		        5		        5		        20
+    Aluno3		5		        10		        10		        25	
+    Media		8,3		        7,6             8,3
 
 ````
