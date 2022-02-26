@@ -28,3 +28,7 @@ O programa deverá exibir os seguinte resultado
 
 ````
 ## Função para Cadastrar Aluno, notas e calcular total e médias e situação
+
+.....
+
+## Função para Cadastrar Nome, Login senha e área de login com validação de senha
