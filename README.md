@@ -1,17 +1,19 @@
 # Curso de Programador Web
 Atividades relacionadas lógica de programação.
 
-## Buscar por nome em vetor
+## 1) Variavéis Globais
 
-## Função Potenciação
+## 2) Buscar por nome em vetor
 
-## Função Fatorial 
+## 3) Função Potenciação
 
-### Normal
+## 4) Função Fatorial 
 
-### Recursivo
+### 4.1) Normal
 
-## Função para Cadastrar Aluno, notas e calcular total e médias
+### 4.2) Recursivo
+
+## 5.1) Função para Cadastrar Aluno, notas e calcular total e médias
 
 Crie um algoritmo que irá cadastrar 3 alunos e nota de 3 avaliações para cada aluno.
 
@@ -27,8 +29,8 @@ O programa deverá exibir os seguinte resultado
     Media		8,3		        7,6             8,3
 
 ````
-## Função para Cadastrar Aluno, notas e calcular total e médias e situação
+## 5.2) Função para Cadastrar Aluno, notas e calcular total e médias e situação
 
 .....
 
-## Função para Cadastrar Nome, Login senha e área de login com validação de senha
+## 6) Função para Cadastrar Nome, Login senha e área de login com validação de senha
